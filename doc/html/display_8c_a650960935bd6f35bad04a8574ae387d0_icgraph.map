@@ -1,0 +1,15 @@
+<map id="clear_display" name="clear_display">
+<area shape="rect" id="node1" title=": clear screen." alt="" coords="748,208,856,235"/>
+<area shape="rect" id="node2" href="$display_8c.html#aca2163064e8784c980cd96150fd7621a" title=" " alt="" coords="553,5,688,32"/>
+<area shape="rect" id="node6" href="$display_8c.html#ad5f30364519b808370905efc22caed14" title=" " alt="" coords="549,157,693,184"/>
+<area shape="rect" id="node7" href="$display_8c.html#a50263c946c0bbab9ee7de5c7e35a2533" title=": display an end message." alt="" coords="343,208,475,235"/>
+<area shape="rect" id="node8" href="$display_8c.html#a925a1691cb591b8f48109d9c5f0fc875" title=": display history of 20 last games." alt="" coords="156,259,277,285"/>
+<area shape="rect" id="node9" href="$display_8c.html#ae667cbe3aaf44534b0bce1b4b781a082" title=": display start menu." alt="" coords="353,309,466,336"/>
+<area shape="rect" id="node10" href="$display_8c.html#aecf3f2c22b1931b758e67de77987168e" title=" " alt="" coords="163,360,271,387"/>
+<area shape="rect" id="node11" href="$display_8c.html#a7c87bb2773d38d0094ea839c985bd8c4" title=": display a splash screen." alt="" coords="325,411,493,437"/>
+<area shape="rect" id="node12" href="$display_8c.html#a294c51104137ecc5de299c67fe9e9dbc" title=" " alt="" coords="553,56,688,83"/>
+<area shape="rect" id="node13" href="$display_8c.html#a637430418ef39e02d151f2c4d8c9aaf5" title=" " alt="" coords="541,107,700,133"/>
+<area shape="rect" id="node3" href="$engine_8c.html#ae07ec15d04e8d027aaf868e6bc8520fb" title=" " alt="" coords="368,81,451,108"/>
+<area shape="rect" id="node4" href="$engine_8c.html#a08128a09e97c1b63afc765c96e1e4c8f" title=": play a game of guess my letter." alt="" coords="169,157,264,184"/>
+<area shape="rect" id="node5" href="$engine_8c.html#a02086bbd384461a05f62cbbf4cc54653" title=": start the game." alt="" coords="5,284,108,311"/>
+</map>

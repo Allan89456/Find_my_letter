@@ -1,0 +1,38 @@
+<map id="play_game" name="play_game">
+<area shape="rect" id="node1" title=": play a game of guess my letter." alt="" coords="5,594,100,620"/>
+<area shape="rect" id="node2" href="$display_8c.html#ad5f30364519b808370905efc22caed14" title=" " alt="" coords="157,518,301,544"/>
+<area shape="rect" id="node4" href="$display_8c.html#aab3227c34a74950e8d08a8759dbb0e31" title=": display a error message if dynamic allocation is fail." alt="" coords="571,738,742,780"/>
+<area shape="rect" id="node5" href="$keyboard_8c.html#a18871918270e08282ffc04b1491c99c3" title=": flush stdin." alt="" coords="588,36,725,63"/>
+<area shape="rect" id="node6" href="$engine_8c.html#a57c4f765003e74fa808e60cac0e55f4b" title=" " alt="" coords="183,796,275,823"/>
+<area shape="rect" id="node7" href="$set__game_8c.html#a9ab3e1c2012f94fecfec3f109c65777d" title=" " alt="" coords="148,746,311,772"/>
+<area shape="rect" id="node10" href="$keyboard_8c.html#aa3a243d01c58386894718663a433a309" title=" " alt="" coords="381,442,495,468"/>
+<area shape="rect" id="node11" href="$engine_8c.html#ae07ec15d04e8d027aaf868e6bc8520fb" title=" " alt="" coords="188,264,271,291"/>
+<area shape="rect" id="node19" href="$engine_8c.html#a7f204dfa48b37a39ea50146a20e845e1" title=" " alt="" coords="181,898,278,924"/>
+<area shape="rect" id="node31" href="$set__game_8c.html#ad28ff08291764d4b10840b0bf29ddb8a" title=" " alt="" coords="186,594,273,620"/>
+<area shape="rect" id="node3" href="$display_8c.html#a650960935bd6f35bad04a8574ae387d0" title=": clear screen." alt="" coords="603,214,711,240"/>
+<area shape="rect" id="node8" href="$set__game_8c.html#a067ff0c1bf1c611801cbda3c3fe83fa5" title=" " alt="" coords="392,796,484,823"/>
+<area shape="rect" id="node9" href="$set__game_8c.html#af24e2dfc2848e883c520fe843b177d95" title=" " alt="" coords="393,746,483,772"/>
+<area shape="rect" id="node12" href="$keyboard_8c.html#a7f8d8e13af2f8f9a4a287481d487a9cb" title=" " alt="" coords="374,290,502,316"/>
+<area shape="rect" id="node13" href="$display_8c.html#aca2163064e8784c980cd96150fd7621a" title=" " alt="" coords="371,138,505,164"/>
+<area shape="rect" id="node14" href="$display_8c.html#a294c51104137ecc5de299c67fe9e9dbc" title=" " alt="" coords="371,188,505,215"/>
+<area shape="rect" id="node15" href="$display_8c.html#a99c736a9000823d3ae5e7aa7832239d0" title=" " alt="" coords="381,340,495,367"/>
+<area shape="rect" id="node16" href="$display_8c.html#a637430418ef39e02d151f2c4d8c9aaf5" title=" " alt="" coords="359,239,517,266"/>
+<area shape="rect" id="node17" href="$keyboard_8c.html#af49b42837ca3d8b399a19f6a842d32df" title=": retrun 0 if not a letter, 1 for pass, 2 for good letter, 3 for bad letter and 4 for quit." alt="" coords="375,36,501,63"/>
+<area shape="rect" id="node18" href="$set__game_8c.html#aa40a5573843571f59065287ae3d12d0b" title=" " alt="" coords="604,467,709,494"/>
+<area shape="rect" id="node20" href="$score_8c.html#a9b875542ea6033a065c49c1f45b7bfd3" title=" " alt="" coords="377,999,499,1026"/>
+<area shape="rect" id="node28" href="$display_8c.html#a4085985ddb7483a45602e9e035dc97ff" title=": ask the user to enter a nickname." alt="" coords="361,847,515,874"/>
+<area shape="rect" id="node29" href="$keyboard_8c.html#ae73b74e8872fda4272a7cc13963a83ca" title=" " alt="" coords="371,898,505,924"/>
+<area shape="rect" id="node30" href="$score_8c.html#a8ce1899e67a48b6e9806e34ee45c0039" title=" " alt="" coords="377,948,499,975"/>
+<area shape="rect" id="node21" href="$score_8c.html#ab605f5983eb33de3aff0e200d068f117" title=" " alt="" coords="611,872,703,899"/>
+<area shape="rect" id="node23" href="$score_8c.html#a00460c0bb94274311e00da9fa09d67fc" title=" " alt="" coords="812,948,883,975"/>
+<area shape="rect" id="node24" href="$score_8c.html#a121f53456aa77d77088293bb6d1936cf" title=" " alt="" coords="609,1024,704,1051"/>
+<area shape="rect" id="node25" href="$score_8c.html#ab082faf878efcefcdad03dc507532100" title=" " alt="" coords="591,1075,723,1102"/>
+<area shape="rect" id="node26" href="$score_8c.html#aa42219d5a7ed4f002903b073c2572f8f" title=" " alt="" coords="565,1126,748,1152"/>
+<area shape="rect" id="node27" href="$score_8c.html#a2fbcf9b11b9ed0057288d460099678b8" title=" " alt="" coords="611,974,703,1000"/>
+<area shape="rect" id="node22" href="$score_8c.html#abbe91f221c61cfb29eda6b9e4dae2211" title=" " alt="" coords="796,872,899,899"/>
+<area shape="rect" id="node32" href="$set__game_8c.html#af2c1d09b2a8c3e8007cbac788689dd85" title=" " alt="" coords="392,543,484,570"/>
+<area shape="rect" id="node33" href="$set__game_8c.html#aa72b8b9308700c02fff283096973cdf0" title=" " alt="" coords="371,594,505,620"/>
+<area shape="rect" id="node35" href="$set__game_8c.html#a5d0741703a8a21f6b0eb1b8f8ea8c60f" title=" " alt="" coords="372,644,504,671"/>
+<area shape="rect" id="node34" href="$set__game_8c.html#a83a555b23cbca6f9bf3189f186b3ed23" title=" " alt="" coords="597,594,717,620"/>
+<area shape="rect" id="node36" href="$set__game_8c.html#a86fa276cb69f4ff2f1300a9656c6a243" title=" " alt="" coords="631,644,682,671"/>
+</map>

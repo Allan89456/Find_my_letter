@@ -1,0 +1,4 @@
+<map id="get_turn_choice" name="get_turn_choice">
+<area shape="rect" id="node1" title=": retrun 0 if not a letter, 1 for pass, 2 for good letter, 3 for bad letter and 4 for quit." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a18871918270e08282ffc04b1491c99c3" title=": flush stdin." alt="" coords="179,5,316,32"/>
+</map>

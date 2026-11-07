@@ -1,0 +1,4 @@
+<map id="get_menu_choice" name="get_menu_choice">
+<area shape="rect" id="node1" title=": retrun the choice of the user for the menu" alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a18871918270e08282ffc04b1491c99c3" title=": flush stdin." alt="" coords="189,5,327,32"/>
+</map>

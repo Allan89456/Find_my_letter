@@ -1,0 +1,8 @@
+<map id="replace_char" name="replace_char">
+<area shape="rect" id="node1" title=" " alt="" coords="573,31,679,57"/>
+<area shape="rect" id="node2" href="$set__game_8c.html#af2c1d09b2a8c3e8007cbac788689dd85" title=" " alt="" coords="433,5,525,32"/>
+<area shape="rect" id="node6" href="$engine_8c.html#ae07ec15d04e8d027aaf868e6bc8520fb" title=" " alt="" coords="301,56,383,83"/>
+<area shape="rect" id="node3" href="$set__game_8c.html#ad28ff08291764d4b10840b0bf29ddb8a" title=" " alt="" coords="299,5,385,32"/>
+<area shape="rect" id="node4" href="$engine_8c.html#a08128a09e97c1b63afc765c96e1e4c8f" title=": play a game of guess my letter." alt="" coords="156,31,251,57"/>
+<area shape="rect" id="node5" href="$engine_8c.html#a02086bbd384461a05f62cbbf4cc54653" title=": start the game." alt="" coords="5,31,108,57"/>
+</map>

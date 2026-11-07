@@ -1,0 +1,8 @@
+<map id="flush_stdin_buffer" name="flush_stdin_buffer">
+<area shape="rect" id="node1" title=": flush stdin." alt="" coords="656,82,793,109"/>
+<area shape="rect" id="node2" href="$engine_8c.html#a02086bbd384461a05f62cbbf4cc54653" title=": start the game." alt="" coords="5,31,108,58"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html#ab719099304b26113b12ea5691abe3733" title=": retrun the choice of the user for the menu" alt="" coords="299,31,435,58"/>
+<area shape="rect" id="node4" href="$keyboard_8c.html#af49b42837ca3d8b399a19f6a842d32df" title=": retrun 0 if not a letter, 1 for pass, 2 for good letter, 3 for bad letter and 4 for quit." alt="" coords="483,82,608,109"/>
+<area shape="rect" id="node5" href="$engine_8c.html#ae07ec15d04e8d027aaf868e6bc8520fb" title=" " alt="" coords="325,107,408,134"/>
+<area shape="rect" id="node6" href="$engine_8c.html#a08128a09e97c1b63afc765c96e1e4c8f" title=": play a game of guess my letter." alt="" coords="156,107,251,134"/>
+</map>

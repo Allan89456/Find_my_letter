@@ -1,0 +1,6 @@
+<map id="init_words" name="init_words">
+<area shape="rect" id="node1" title=" " alt="" coords="509,5,599,32"/>
+<area shape="rect" id="node2" href="$set__game_8c.html#a9ab3e1c2012f94fecfec3f109c65777d" title=" " alt="" coords="299,5,461,32"/>
+<area shape="rect" id="node3" href="$engine_8c.html#a08128a09e97c1b63afc765c96e1e4c8f" title=": play a game of guess my letter." alt="" coords="156,5,251,32"/>
+<area shape="rect" id="node4" href="$engine_8c.html#a02086bbd384461a05f62cbbf4cc54653" title=": start the game." alt="" coords="5,5,108,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="play_turn" name="play_turn">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,88,235"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a7f8d8e13af2f8f9a4a287481d487a9cb" title=" " alt="" coords="151,5,279,32"/>
+<area shape="rect" id="node3" href="$display_8c.html#aca2163064e8784c980cd96150fd7621a" title=" " alt="" coords="148,56,283,83"/>
+<area shape="rect" id="node5" href="$display_8c.html#a294c51104137ecc5de299c67fe9e9dbc" title=" " alt="" coords="148,107,283,133"/>
+<area shape="rect" id="node6" href="$display_8c.html#a99c736a9000823d3ae5e7aa7832239d0" title=" " alt="" coords="158,157,273,184"/>
+<area shape="rect" id="node7" href="$display_8c.html#a637430418ef39e02d151f2c4d8c9aaf5" title=" " alt="" coords="136,208,295,235"/>
+<area shape="rect" id="node8" href="$keyboard_8c.html#a18871918270e08282ffc04b1491c99c3" title=": flush stdin." alt="" coords="343,284,480,311"/>
+<area shape="rect" id="node9" href="$keyboard_8c.html#af49b42837ca3d8b399a19f6a842d32df" title=": retrun 0 if not a letter, 1 for pass, 2 for good letter, 3 for bad letter and 4 for quit." alt="" coords="153,309,278,336"/>
+<area shape="rect" id="node10" href="$keyboard_8c.html#aa3a243d01c58386894718663a433a309" title=" " alt="" coords="159,360,272,387"/>
+<area shape="rect" id="node11" href="$set__game_8c.html#aa40a5573843571f59065287ae3d12d0b" title=" " alt="" coords="163,411,268,437"/>
+<area shape="rect" id="node4" href="$display_8c.html#a650960935bd6f35bad04a8574ae387d0" title=": clear screen." alt="" coords="357,107,465,133"/>
+</map>
